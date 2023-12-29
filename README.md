@@ -11,6 +11,7 @@ This Django-based web application provides weather information for a given city.
 
 
 LICENSE
+
 This project is licensed under the MIT License.
 
 Copyright (c) 2023 Nasir Malek
